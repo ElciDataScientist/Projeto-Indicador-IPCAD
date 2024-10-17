@@ -6,4 +6,6 @@
 - Regressão Linear
 - XGBoost
 - Limpeza de dados
-- 
+- Calculo do Linkage
+- Dendograma
+- Dados Categorizados e Visualizações
